@@ -1,6 +1,9 @@
 # USG_RL_Test
 This project is test for model engineering, MLops, Massive Multi cloud service for RL algorithm
 
+# License GNU 3.0 Affero
+# No Robots allow
+
 # test game example
 - SDL2.0
 - Socket TCP/IP
